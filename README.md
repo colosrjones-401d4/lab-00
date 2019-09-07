@@ -5,12 +5,12 @@
 ### Author: STEVEN JONES
 
 ### Links and Resources
-* [submission PR](https://github.com/tutuorial-401js/class-00)
-* [travis](https://travis-ci.com/tutuorial-401js/class-00)
-* [front-end](https://tutorial-401js.herokuapp.com/)
+* [submission PR](https://github.com/colosrjones-401d4/lab-00/tree/tutorial)
+* [travis](https://www.travis-ci.com/colosrjones-401d4/lab-00/builds/126339602)
+* [front-end](https://lab00401d4.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](https://tutorial-401js.herokuapp.com/docs)
+* [jsdoc](https://lab00401d4.herokuapp.com/docs/)
 
 ### Modules
 #### `pol.js`
@@ -21,7 +21,7 @@ The isAlive() method returns a boolean based on the arg sent in.
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* `PORT` - 3000
 
 #### Running the app
 * `npm start`
