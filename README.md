@@ -5,8 +5,8 @@
 ### Author: STEVEN JONES
 
 ### Links and Resources
-* [submission PR](https://github.com/colosrjones-401d4/lab-00/tree/tutorial)
-* [travis](https://www.travis-ci.com/colosrjones-401d4/lab-00/builds/126339602)
+* [submission PR](https://github.com/colosrjones-401d4/lab-00)
+* [travis](https://travis-ci.com/colosrjones-401d4/lab-00)
 * [front-end](https://lab00401d4.herokuapp.com/)
 
 #### Documentation
