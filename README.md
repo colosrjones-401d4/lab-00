@@ -21,7 +21,7 @@ The isAlive() method returns a boolean based on the arg sent in.
 
 ### Setup
 #### `.env` requirements
-* `PORT` - 3000
+* `PORT` - Port Number
 
 #### Running the app
 * `npm start`
